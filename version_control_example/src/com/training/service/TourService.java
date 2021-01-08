@@ -17,6 +17,6 @@ public class TourService {
 	}
 	
 	public void deleteTour(Tour tour) {
-		System.out.println("Branch master - Delete");
+		System.out.println("Branch Master - fix");
 	}
 }
