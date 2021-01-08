@@ -8,7 +8,7 @@ public class Tour {
 	private double duration;
 	private double cost;
 	public Tour() {
-		// TODO Auto-generated constructor stub
+		
 	}
 	public Tour(int tourId, String tourName, double duration, double cost) {
 		super();
@@ -80,5 +80,7 @@ public class Tour {
 	public String toString() {
 		return "Tour [tourId=" + tourId + ", tourName=" + tourName + ", duration=" + duration + ", cost=" + cost + "]";
 	}
+	
+	
 
 }
